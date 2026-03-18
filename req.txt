@@ -1,0 +1,4 @@
+Перед скачиванием отключите VPN:
+    - pip install pandas==2.3.3
+    - pip install psycopg2-binary==2.9.11
+    - pip install mysql-connector-python==9.5.0
